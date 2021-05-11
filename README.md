@@ -15,3 +15,4 @@ git config - - global user.email « mon email » : Définir mon adresse mail
 git - - version : Vérifier sa version de GIT
 cd nomdudossier : Naviguer dans un dossier
 git diff : Afficher les modifications apportés aux fichiers
+ls : Lister les éléments dans un dossier
