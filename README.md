@@ -16,3 +16,4 @@ git - - version : Vérifier sa version de GIT
 cd nomdudossier : Naviguer dans un dossier
 git diff : Afficher les modifications apportés aux fichiers
 ls : Lister les éléments dans un dossier
+git switch - : pour revenir où on était (revenir au master)
