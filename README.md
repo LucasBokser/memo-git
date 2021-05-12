@@ -23,3 +23,4 @@ pwd : le chemin de mon repo
 git clone : cloner un repertoire
 un conflit : Les conflits surviennent généralement lorsque deux personnes ont modifié les mêmes lignes dans un fichier, ou si un développeur a supprimé un fichier alors qu'un autre développeur le modifiait. ... Git marquera le fichier comme étant en conflit et arrêtera le processus de merge
 git restore staged <nom du fichier à modifier> : supprimer le add tout juste ajouté
+git log --oneline --decorate --graph : pour voir les branches en graph
