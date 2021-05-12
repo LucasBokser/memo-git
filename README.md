@@ -17,5 +17,8 @@ cd nomdudossier : Naviguer dans un dossier
 git diff : Afficher les modifications apportés aux fichiers
 ls : Lister les éléments dans un dossier
 git switch - : pour revenir où on était (revenir au master)
-git push --tag : pousser tous les tags
+git push --tags : pousser tous les tags
 git push origin <nom du tag> : pousser un tag
+pwd : le chemin de mon repo
+git clone : cloner un repertoire
+un conflit : Les conflits surviennent généralement lorsque deux personnes ont modifié les mêmes lignes dans un fichier, ou si un développeur a supprimé un fichier alors qu'un autre développeur le modifiait. ... Git marquera le fichier comme étant en conflit et arrêtera le processus de merge
