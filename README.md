@@ -17,3 +17,5 @@ cd nomdudossier : Naviguer dans un dossier
 git diff : Afficher les modifications apportés aux fichiers
 ls : Lister les éléments dans un dossier
 git switch - : pour revenir où on était (revenir au master)
+git push --tag : pousser tous les tags
+git push origin <nom du tag> : pousser un tag
